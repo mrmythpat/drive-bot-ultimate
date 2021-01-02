@@ -1,0 +1,15 @@
+{
+    "name": "Python-Drive-Bot",
+    "description": "Telegram-Direct-Mirror to G-Drive",
+    "logo": "https://telegra.ph/file/380a2fc4adc4b430e4979.png",
+    "keywords": [
+      "telegram",
+      "python"
+    ],
+    "stack": "container",
+    "addons": [
+      {
+        "plan": "heroku-postgresql"
+      }
+    ]
+}
